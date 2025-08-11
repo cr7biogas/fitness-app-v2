@@ -1,0 +1,36 @@
+{
+  "date": "2025-08-11",
+  "goal": "forza",
+  "mobilita_risveglio": [
+    {
+      "name": "rotazioni braccia",
+      "detail": "3 serie da 10 rotazioni per lato",
+      "description": "Movimenti circolari per scaldare le spalle",
+      "options": [
+        {
+          "type": "standard",
+          "description": "Rotazioni ampie in piedi"
+        },
+        {
+          "type": "alternative_easy",
+          "description": "Rotazioni piccole seduti"
+        }
+      ],
+      "contraindicated_for": ["spalla"]
+    }
+  ],
+  "fase1": [
+    {
+      "name": "EMOM 10 minuti",
+      "detail": "Ogni minuto: 3 esercizi per 40 secondi",
+      "description": "Circuito ad alta intensità",
+      "options": [
+        {
+          "type": "standard",
+          "description": "Burpees, squat jump, push-up"
+        }
+      ],
+      "contraindicated_for": []
+    }
+  ]
+}
